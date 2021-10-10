@@ -1,0 +1,172 @@
+#+TITLE: Declinazioni latine
+#+AUTHOR: Lorenzo Torres
+#+DESCRIPTION: Appunti generali sulle declinazioni latine (Liceo Scientifico Tradizionale, Biennio)
+#+LANGUAGE: it
+
+* Casi
+- Nominativo: soggetto
+- Genitivo: complemento di specificazione (chi?/che cosa?)
+- Dativo: complemento di termine (a chi?/a che cosa?)
+- Accusativo: complemento oggetto (chi?/che cosa?)
+- Vocativo: complemento di vocazione
+- Ablativo: complemento di agente, mezzo, modo, causa e compagnia o funzione locativa
+
+* Riconoscimento della declinazione
+Ci si basa sull'uscita del genitivo singolare, che può essere:
+- "ae" 1° declinazione
+- "i" 2° declinazione
+- "is" 3° declinazione
+- "us" 3° declinazione
+- "ei" 4° declinazione
+
+* Prima declinazione
+
+| CASO | SINGOLARE | PLURALE  |
+| nom. | ros-a     | ros-ae   |
+| gen. | ros-ae    | ros-arum |
+| dat. | ros-ae    | ros-is   |
+| acc. | ros-am    | ros-as   |
+| voc. | ros-a     | ros-ae   |
+| abl. | ros-a     | ros-is   |
+
+* Seconda declinazione
+
+** Maschili e femminili in -us
+| CASO | SINGOLARE | PLURALE  |
+| nom. | lup-us    | lup-i    |
+| gen. | lup-i     | lup-orum |
+| dat. | lup-o     | lup-is   |
+| acc. | lup-um    | lup-os   |
+| voc. | lup-e     | lup-i    |
+| abl. | lup-o     | lup-is   |
+
+** Machili in -er
+| CASO | SINGOLARE | PLURALE   |
+| nom. | puer      | puer-i    |
+| gen. | puer-i    | puer-orum |
+| dat. | puer-o    | puer-is   |
+| acc. | puer-um   | puer-os   |
+| voc. | puer      | puer-i    |
+| abl. | puer-o    | puer-is   |
+
+** Machili in -ir
+| CASO | SINGOLARE | PLURALE  |
+| nom. | vir       | vir-i    |
+| gen. | vir-i     | vir-orum |
+| dat. | vir-o     | vir-is   |
+| acc. | vir-um    | vir-os   |
+| voc. | vir       | vir-i    |
+| abl. | vir-o     | vir-is   |
+
+** Neutri in -um
+| CASO | SINGOLARE | PLURALE   |
+| nom. | bell-um   | bell-a    |
+| gen. | bell-i    | bell-orum |
+| dat. | bell-o    | bell-is   |
+| acc. | bell-um   | bell-a    |
+| voc. | bell-um   | bell-a    |
+| abl. | bell-o    | bell-is   |
+
+
+* Terza declinazione
+
+Alcuni casi hanno uscite doppie:
+- Accusativo singolare: -em / -im
+- Ablativo singolare: -e / -i
+- Genitivo plurale: -um / -ium
+- Nominativo, accusativo e vocativo neutro plurale: -a / -ia
+
+I sostantivi della terza declinazione si dividono in due gruppi: *sostantivi parisillabi* e *sostantivi imparisillabi*
+** Sostantivi parisillabi
+I sostantivi parisillabi sono nomi che hanno lo stesso numero di sillabe sia al nominativo che al genitivo (e.g. nom. cla-des, gen. cla-dis)
+
+** Sostantivi imparisillabi
+I sostantivi imparisillabi sono nomi che hanno una sillaba in più nel caso genitivo rispetto al caso nominativo (e.g. nom. con-sul, gen. con-su-lis)
+
+** Gruppi della terza declinazione
+Nella terza declinazione i sostantivi vengono divisi in tre gruppi:
+- Primo gruppo: nomi imparisillabi
+- Secondo gruppo: nomi parisillabi
+- Terzo gruppo: nomi con tema in vocale
+
+** Primo gruppo
+| CASO | SINGOLARE | PLURALE     |
+| nom. | orator    | orator-es   |
+| gen. | orator-is | orator-um   |
+| dat. | orator-i  | orator-ibus |
+| acc. | orator-em | orator-es   |
+| voc. | orator    | orator-es   |
+| abl. | orator-e  | orator-ibus |
+
+| CASO | SINGOLARE | PLURALE   |
+| nom. | laus      | laud-es   |
+| gen. | laud-is   | laud-um   |
+| dat. | laud-i    | laud-ibus |
+| acc. | laud-em   | laud-es   |
+| voc. | laus      | laud-es   |
+| abl  | laud-e    | laud-ibus |
+
+** Secondo gruppo
+| CASO | SINGOLARE | PLURALE   |
+| nom. | coll-is   | coll-es   |
+| gen. | coll-is   | coll-ium  |
+| dat. | coll-i    | coll-ibus |
+| acc. | coll-em   | coll-es   |
+| voc. | coll-is   | coll-es   |
+| abl. | coll-e    | coll-ibus |
+
+| CASO | SINGOLARE | PLURALE   |
+| nom. | mons      | mont-es   |
+| gen. | mont-is   | mont-ium  |
+| dat. | mont-i    | mont-ibus |
+| acc. | mont-em   | mont-es   |
+| voc. | mont-is   | mont-es   |
+| abl. | mont-e    | mont-ibus |
+
+** Terzo gruppo
+| CASO | SINGOLARE | PLURALE    |
+| nom. | pupp-i-s  | pupp-e-s   |
+| gen. | pupp-i-s  | pupp-i-um  |
+| dat. | pupp-i    | pupp-i-bus |
+| acc. | pupp-i-m  | pupp-i-s   |
+| voc. | pupp-i-s  | pupp-e-s   |
+| abl. | pupp-i    | pupp-i-bus |
+
+In questo caso la vocale tematica è la *i* che viene mantenuta per tutta la declinazione.
+
+* Quarta declinazione
+
+| CASO | SINGOLARE | PLURALE   |
+| nom. | curr-us   | curr-us   |
+| gen. | curr-us   | curr-uum  |
+| dat. | curr-ui   | curr-ibus |
+| acc. | curr-um   | curr-us   |
+| voc. | curr-us   | curr-us   |
+| abl. | curr-u    | curr-ibus |
+
+| CASO | SINGOLARE | PLURALE   |
+| nom. | corn-u    | conr-ua   |
+| gen. | corn-us   | corn-uum  |
+| dat. | corn-u    | corn-ibus |
+| acc. | corn-u    | corn-ua   |
+| voc. | corn-u    | corn-ua   |
+| abl. | corn-u    | corn-ibus |
+
+
+* Quinta declinazione
+
+| CASO | SINGOLARE | PLURALE |
+| nom. | di-es     | di-es   |
+| gen. | di-ei     | di-erum |
+| dat. | di-ei     | di-ebus |
+| acc. | di-em     | di-es   |
+| voc. | di-es     | di-es   |
+| abl. | di-e      | di-ebus |
+
+| CASO | SINGOLARE | PLURALE |
+| nom. | r-es      | re-es   |
+| gen. | r-ei      | r-erum  |
+| dat. | r-ei      | r-ebus  |
+| acc. | r-em      | r-es    |
+| voc. | r-es      | r-es    |
+| abl. | r-e       | r-ebus  |

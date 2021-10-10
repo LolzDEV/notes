@@ -1,0 +1,12 @@
+#+TITLE: LolzDEV's Notes
+#+AUTHOR: Lorenzo Torres
+#+DESCRIPTION: These are all my notes, some are related to school and some are related to my personal matters
+
+* School related notes
+** Latin
+
+Latin is a school subject, these are some of my latin notes:
+ + [[file:latino/declinazioni.org][Declinazioni]]: Written in italian, explains what are latin declensions, their endings and how to use them
+
+* Personal notes
+Empty at the moment
