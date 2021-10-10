@@ -21,6 +21,7 @@ Ci si basa sull'uscita del genitivo singolare, che può essere:
 
 * Prima declinazione
 
+** Maschili e femminili
 | CASO | SINGOLARE | PLURALE  |
 | nom. | ros-a     | ros-ae   |
 | gen. | ros-ae    | ros-arum |
@@ -90,6 +91,7 @@ Nella terza declinazione i sostantivi vengono divisi in tre gruppi:
 - Terzo gruppo: nomi con tema in vocale
 
 ** Primo gruppo
+*** Declinazione di orator
 | CASO | SINGOLARE | PLURALE     |
 | nom. | orator    | orator-es   |
 | gen. | orator-is | orator-um   |
@@ -98,6 +100,7 @@ Nella terza declinazione i sostantivi vengono divisi in tre gruppi:
 | voc. | orator    | orator-es   |
 | abl. | orator-e  | orator-ibus |
 
+*** Declinazione di laus
 | CASO | SINGOLARE | PLURALE   |
 | nom. | laus      | laud-es   |
 | gen. | laud-is   | laud-um   |
@@ -107,6 +110,7 @@ Nella terza declinazione i sostantivi vengono divisi in tre gruppi:
 | abl  | laud-e    | laud-ibus |
 
 ** Secondo gruppo
+*** Declinazione di collis
 | CASO | SINGOLARE | PLURALE   |
 | nom. | coll-is   | coll-es   |
 | gen. | coll-is   | coll-ium  |
@@ -114,7 +118,7 @@ Nella terza declinazione i sostantivi vengono divisi in tre gruppi:
 | acc. | coll-em   | coll-es   |
 | voc. | coll-is   | coll-es   |
 | abl. | coll-e    | coll-ibus |
-
+*** Declinazione di mons
 | CASO | SINGOLARE | PLURALE   |
 | nom. | mons      | mont-es   |
 | gen. | mont-is   | mont-ium  |
@@ -124,6 +128,7 @@ Nella terza declinazione i sostantivi vengono divisi in tre gruppi:
 | abl. | mont-e    | mont-ibus |
 
 ** Terzo gruppo
+*** Declinazione di puppis
 | CASO | SINGOLARE | PLURALE    |
 | nom. | pupp-i-s  | pupp-e-s   |
 | gen. | pupp-i-s  | pupp-i-um  |
@@ -135,7 +140,7 @@ Nella terza declinazione i sostantivi vengono divisi in tre gruppi:
 In questo caso la vocale tematica è la *i* che viene mantenuta per tutta la declinazione.
 
 * Quarta declinazione
-
+** Declinazione di currus
 | CASO | SINGOLARE | PLURALE   |
 | nom. | curr-us   | curr-us   |
 | gen. | curr-us   | curr-uum  |
@@ -144,6 +149,7 @@ In questo caso la vocale tematica è la *i* che viene mantenuta per tutta la dec
 | voc. | curr-us   | curr-us   |
 | abl. | curr-u    | curr-ibus |
 
+** Declinazione di cornu
 | CASO | SINGOLARE | PLURALE   |
 | nom. | corn-u    | conr-ua   |
 | gen. | corn-us   | corn-uum  |
@@ -154,7 +160,7 @@ In questo caso la vocale tematica è la *i* che viene mantenuta per tutta la dec
 
 
 * Quinta declinazione
-
+** Declinazione di dies
 | CASO | SINGOLARE | PLURALE |
 | nom. | di-es     | di-es   |
 | gen. | di-ei     | di-erum |
@@ -163,6 +169,7 @@ In questo caso la vocale tematica è la *i* che viene mantenuta per tutta la dec
 | voc. | di-es     | di-es   |
 | abl. | di-e      | di-ebus |
 
+** Declinazione di res
 | CASO | SINGOLARE | PLURALE |
 | nom. | r-es      | re-es   |
 | gen. | r-ei      | r-erum  |
