@@ -7,6 +7,9 @@
 
 Latin is a school subject, these are some of my latin notes:
  + [[file:latino/declinazioni.org][Declinazioni]]: Written in italian, explains what are latin declensions, their endings and how to use them
+** Chemistry
+Chemistry is a school subject, here are some of my chemistry notes:
+ + [[file:chimica/reazioni_formule_leggi_ponderali.org][Reazioni, Formule e Leggi Ponderali]]: Written also in italian, define some laws about *atoms* and *elements*
 
 * Personal notes
 Empty at the moment

@@ -1,0 +1,33 @@
+* Reazioni chimiche
+Le reazioni chimiche sono trasformazioni che cambiano la composizione della materia e formano nuove sotanze.
+Le sostanze originali sono dette *reagenti* mentre le sostanze nuove vengono chiamate *prodotti*
+
+* Sostanze
+Si dividono in:
+** Elementi
+Sostanze pure composte solo da atomi e non scomponibili
+** Composti
+Sostanze formate da più elementi e scomponibili
+
+* Teoria atomica di dalton
+Scritta nel 1808, la teoria atomica di Dalton sostiene che la materia sia formata da micro particelle chiamate *atomi*, tutti gli *atomi* di uno stesso elemento presentano uguali caratteristiche, un composto è formato da più atomi appartenenti a differenti elementi combinati insieme, nelle reazioni gli atomi si combinano con altri atomi interi e gli atomi di un elemento non possono essere creati, distrutti o trasformati in altri elementi.
+
+* Atomi e molecole
+Un *atomo* è la più piccola particella di un elemento, una molecola invece è la più piccola particella di un composto
+
+* Legge di conservazione della massa
+Formata da Lavoisier nel 1789, la legge di conservazione della massa afferma che in una reazione chimica, la somma delle masse dei reagenti è uguale alla somma delle masse dei prodotti.
+Si afferma quindi che *nulla si crea e nulla si distrugge*. Questa legge è anche conosciuta come *Legge di Lavoisier*
+
+* Legge delle proporzioni definite e costanti
+Scritta nel 1799 la *legge delle proporzioni definite e costanti* afferma che che due elementi qualora dovessero *reagire chimicamente* si uniscono mantenendo un rapporto definito e costante, presentando così in caso fosse necessario degli scarti che non reagiscono, quest'ultima viene anche definita *Legge di Proust*.
+
+* Legge delle proporzioni multiple
+Questa legge afferma che variando le condizioni sperimentali due elementi che reagiscono possono formare composti diversi, per esempio l'ossigeno e l'idrogeno possono formare l'acqua (H2O) ma anchel'acqua ossigenata (H2O2).
+La legge delle proporzioni multiple è anche nota come *Legge di Dalton*
+
+* Legge dei volumi di combinazione
+Gay-Lussac scoprì che in una reazione chimica i volumi dei gas reagenti e i volumi dei gas prodotti stanno tra loro in rapporti esprimibili attraverso numeri interi piccoli
+
+* Legge di Avogadro
+Questa legge sostiene che nelle stesse condizioni di *temperatura* e *pressione* uguali volumi di gas diversi contengono lo stesso numero di molecole.
